@@ -1,0 +1,17 @@
+.posts {
+    list-style: none;
+    max-width: 120rem;
+    min-width: 40rem;
+    margin: 1rem auto;
+    padding: 1rem 0;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(3, 30%);
+    justify-content: center;
+  }
+
+  .fething{
+    text-align: center;
+    color: #fff;
+    font-size: 1rem;
+  }
